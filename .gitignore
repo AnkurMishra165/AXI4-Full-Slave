@@ -1,0 +1,43 @@
+# Simulation and tool-generated files
+*.vcd
+*.fst
+*.wlf
+*.lxt
+*.lxt2
+*.vvp
+*.out
+*.log
+*.jou
+*.db
+*.dmp
+
+# Verilator / Icarus temporary files
+.obj/
+*.o
+*.so
+*.a
+sim_build/
+
+# Vivado / Quartus / tools
+*.runs/
+*.cache/
+*.webtalk/
+*.str
+*.xpr.user
+*.qsf
+*.sdc
+*.rpt
+*.sdf
+*.qpf
+
+# Editor files
+.vscode/
+.idea/
+*~
+*.swp
+*.tmp
+*.bak
+
+# OS default files
+.DS_Store
+Thumbs.db
